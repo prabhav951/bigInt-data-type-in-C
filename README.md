@@ -45,6 +45,3 @@ This BigInt implementation follows base 10. Hence 310 digits are taken in order 
 ![img1](images/1.png)
 
 ![img2](images/2.png)
-
-## Video Explanation
-https://drive.google.com/file/d/1Z40YEjnwBMDmqGFFy3DnjQZfSlyq41nj/view?usp=sharing
